@@ -54,3 +54,9 @@ Copyright © 2026 Benjamin Lequeux.
 Tous droits réservés.
 
 Consultez le fichier `LICENSE` pour les conditions complètes d'utilisation.
+
+<p align="center">
+  <img width="1914" height="1025" alt="tableaudebord" src="https://github.com/user-attachments/assets/7bd776c7-f267-44e3-a783-b44fbca8d288"  width="32%"/>
+  <img width="1916" height="1026" alt="tableau" src="https://github.com/user-attachments/assets/6c28790c-2c03-48f8-8c56-b52fee929fc5"  width="32%"/>
+  <img width="1917" height="1026" alt="carte" src="https://github.com/user-attachments/assets/a662e7bf-0f2e-4ee7-9f9a-220fcde7d2e3"  width="32%"/>
+</p>
