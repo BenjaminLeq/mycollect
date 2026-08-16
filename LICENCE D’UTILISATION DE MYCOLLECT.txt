@@ -1,0 +1,90 @@
+LICENCE D’UTILISATION DE MYCOLLECT
+
+Dernière mise à jour : 16 août 2026
+
+Copyright © 2026 Benjamin Lequeux
+Tous droits réservés.
+
+1. OBJET
+
+La présente licence définit les conditions d’utilisation du logiciel MyCollect (ci-après « le Logiciel »), édité par Benjamin Lequeux.
+
+L’installation ou l’utilisation du Logiciel implique l’acceptation de la présente licence.
+
+2. DROIT D’UTILISATION
+
+Benjamin Lequeux accorde à l’utilisateur un droit personnel, non exclusif et révocable d’installer et d’utiliser MyCollect.
+
+Le Logiciel peut être utilisé à titre personnel ou professionnel, sous réserve du respect des dispositions de la présente licence.
+
+L’utilisateur peut effectuer les copies de sauvegarde nécessaires à la conservation et à l’utilisation normale du Logiciel.
+
+3. PROPRIÉTÉ INTELLECTUELLE
+
+MyCollect, son code source, son interface, ses éléments graphiques, son nom, sa documentation et les éléments qui l’accompagnent restent la propriété de Benjamin Lequeux ou de leurs titulaires respectifs.
+
+La présente licence ne constitue aucune cession des droits de propriété intellectuelle sur le Logiciel.
+
+4. RESTRICTIONS
+
+Sauf autorisation écrite préalable de Benjamin Lequeux ou disposition légale impérative contraire, il est interdit de :
+
+- vendre, louer, concéder sous licence ou commercialiser le Logiciel ;
+- redistribuer une version modifiée du Logiciel sous le nom MyCollect ;
+- supprimer ou modifier les mentions de droit d’auteur ou d’attribution ;
+- tenter de contourner les mécanismes de sécurité ou de protection éventuellement intégrés au Logiciel ;
+- décompiler, désassembler ou procéder à de l’ingénierie inverse du Logiciel, sauf dans les cas expressément autorisés par la législation applicable.
+
+5. DONNÉES DE L’UTILISATEUR
+
+Les collections, images, pièces jointes, fichiers .mycollect et autres données créées ou importées par l’utilisateur restent la propriété de l’utilisateur.
+
+MyCollect stocke ses données localement sur l’ordinateur de l’utilisateur, sauf fonctionnalité explicitement indiquée comme utilisant un service externe.
+
+L’utilisateur reste responsable de la sauvegarde de ses données et de la conservation de copies de sécurité adaptées.
+
+6. DISTRIBUTION
+
+La redistribution de l’installateur officiel de MyCollect est autorisée uniquement si celui-ci est distribué sans modification et gratuitement.
+
+La vente, l’intégration payante ou la redistribution commerciale de MyCollect nécessite l’autorisation écrite préalable de Benjamin Lequeux.
+
+7. ABSENCE DE GARANTIE
+
+MyCollect est fourni « en l’état », sans garantie expresse ou implicite autre que celles qui ne peuvent légalement être exclues.
+
+Bien que le Logiciel soit conçu pour préserver les données de l’utilisateur, aucune application informatique ne peut garantir l’absence totale d’erreur, de panne ou de perte de données.
+
+Il est recommandé à l’utilisateur de conserver des sauvegardes régulières de ses collections.
+
+8. RESPONSABILITÉ
+
+Dans les limites autorisées par la législation applicable, Benjamin Lequeux ne pourra être tenu responsable des dommages indirects, pertes de données, pertes d’exploitation ou préjudices résultant de l’utilisation ou de l’impossibilité d’utiliser MyCollect.
+
+La présente clause ne limite pas les droits dont l’exclusion ou la limitation serait interdite par la loi.
+
+9. MISES À JOUR
+
+Benjamin Lequeux peut proposer des corrections, améliorations ou nouvelles versions de MyCollect.
+
+Certaines fonctionnalités, formats de données ou modalités d’utilisation peuvent évoluer avec les versions futures.
+
+10. RÉSILIATION
+
+Le droit d’utilisation accordé par la présente licence prend fin en cas de violation substantielle de ses conditions.
+
+En cas de résiliation, l’utilisateur doit cesser d’utiliser le Logiciel et supprimer les copies du programme en sa possession. Les données personnelles et collections créées par l’utilisateur restent sa propriété.
+
+11. DROIT APPLICABLE
+
+La présente licence est régie par le droit français, sous réserve des dispositions impératives éventuellement applicables dans le pays de résidence de l’utilisateur.
+
+12. CONTACT
+
+Auteur et éditeur :
+Benjamin Lequeux
+
+Logiciel :
+MyCollect
+
+En installant ou en utilisant MyCollect, vous reconnaissez avoir lu et accepté la présente licence.
