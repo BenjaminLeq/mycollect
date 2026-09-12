@@ -29,8 +29,8 @@ par le collectionneur.
 
 <p align="center">
   <img alt="Tableau de bord" src="https://github.com/user-attachments/assets/d8675149-267c-471a-85e6-d267c2af1206" width="32%">
-  <img alt="Vue tableau" src="https://github.com/user-attachments/assets/6c28790c-2c03-48f8-8c56-b52fee929fc5" width="32%">
-  <img alt="Vue cartes" src="https://github.com/user-attachments/assets/a662e7bf-0f2e-4ee7-9f9a-220fcde7d2e3" width="32%">
+  <img alt="Vue tableau" src="https://github.com/user-attachments/assets/5ca048b7-8ddc-4071-915a-345f31646ce5" width="32%">
+  <img alt="Vue cartes" src="https://github.com/user-attachments/assets/567857d6-12b3-4625-9f95-e1b6bc57d5f6" width="32%">
 </p>
 
 ## Installation
