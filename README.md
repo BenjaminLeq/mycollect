@@ -32,6 +32,12 @@ par le collectionneur.
   <img alt="Vue tableau" src="https://github.com/user-attachments/assets/5ca048b7-8ddc-4071-915a-345f31646ce5" width="32%">
   <img alt="Vue cartes" src="https://github.com/user-attachments/assets/567857d6-12b3-4625-9f95-e1b6bc57d5f6" width="32%">
 </p>
+<p align="center">
+  <img alt="Tableau de bord" src="https://github.com/user-attachments/assets/483d6189-d61d-4e91-b5cf-31d58059a5fb" width="32%">
+  <img alt="Vue tableau" src="https://github.com/user-attachments/assets/235433c9-cd76-4f31-b5af-ff84c34d6a64" width="32%">
+  <img alt="Vue cartes" src="https://github.com/user-attachments/assets/db70e260-bd95-4888-b1f6-1423227b63ba" width="32%">
+</p>
+
 
 ## Installation
 
